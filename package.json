@@ -1,0 +1,27 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "This is my tode work sheet check it and enjoy",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maakashbhi/Todes.git"
+  },
+  "keywords": [
+    "todes"
+  ],
+  "author": "Aakash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maakashbhi/Todes/issues"
+  },
+  "homepage": "https://github.com/maakashbhi/Todes#readme"
+}
